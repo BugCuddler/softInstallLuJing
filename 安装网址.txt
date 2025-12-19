@@ -1,0 +1,26 @@
+MongoDB社区版：https://www.mongodb.com/try/download/community
+MySQL社区版下载：https://dev.mysql.com/downloads/
+Redis下载地址：https://github.com/tporadowski/redis/releases
+
+Redis桌面管理工具：https://gitee.com/qishibo/AnotherRedisDesktopManager/releases
+DataGrip：https://intellij-support.jetbrains.com/hc/en-us/community/topics/200381555-DataGrip
+Final Shell下载页面：https://www.hostbuf.com/t/988.html
+Node.js：https://nodejs.org/zh-cn
+git：https://git-scm.com/install/windows
+GitHubDesktop：https://github.com/apps/desktop
+everything：https://www.voidtools.com/zh-cn/downloads/
+
+Maven下载路径：https://maven.apache.org/download.cgi
+
+Clash Party：https://clash-party.com/
+
+有道云笔记：https://note.youdao.com/
+语雀：https://www.yuque.com/
+VScode：https://code.visualstudio.com/
+IDEA：https://www.jetbrains.com/zh-cn/idea/download/?section=windows
+Apipost：https://www.apipost.cn/
+八爪鱼：https://www.bazhuayu.com/
+
+JDK：https://www.oracle.com/cn/java/technologies/downloads/
+
+后台VPN工具EasyConnect：https://support.sangfor.com.cn/productSoftware/list?product_id=20&category_id=56&fixed_id=id-4362
